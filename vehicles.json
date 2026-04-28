@@ -1,0 +1,122 @@
+[
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6501" },
+    "vehicleNumber": "TN01AB1234",
+    "ownerName": "Ramesh Kumar",
+    "model": "Honda City"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6502" },
+    "vehicleNumber": "TN02CD5678",
+    "ownerName": "Sathish Kumar",
+    "model": "Hyundai Verna"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6503" },
+    "vehicleNumber": "TN03EF9012",
+    "ownerName": "Priya Sharma",
+    "model": "Maruti Swift"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6504" },
+    "vehicleNumber": "TN04GH3456",
+    "ownerName": "Karthik R",
+    "model": "Tata Nexon"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6505" },
+    "vehicleNumber": "TN05IJ7890",
+    "ownerName": "Anjali Verma",
+    "model": "Kia Seltos"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6506" },
+    "vehicleNumber": "KA01AB1122",
+    "ownerName": "Rahul Singh",
+    "model": "Mahindra Thar"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6507" },
+    "vehicleNumber": "KA02CD3344",
+    "ownerName": "Sneha Reddy",
+    "model": "Toyota Innova"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6508" },
+    "vehicleNumber": "KA03EF5566",
+    "ownerName": "Arjun Nair",
+    "model": "Honda Amaze"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6509" },
+    "vehicleNumber": "KA04GH7788",
+    "ownerName": "Pooja Mehta",
+    "model": "Hyundai Creta"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6510" },
+    "vehicleNumber": "MH01AB9900",
+    "ownerName": "Vikas Gupta",
+    "model": "Maruti Baleno"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6511" },
+    "vehicleNumber": "MH02CD2233",
+    "ownerName": "Neha Agarwal",
+    "model": "Tata Punch"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6512" },
+    "vehicleNumber": "MH03EF4455",
+    "ownerName": "Rohit Patil",
+    "model": "Kia Sonet"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6513" },
+    "vehicleNumber": "AP01GH6677",
+    "ownerName": "Sai Kumar",
+    "model": "Mahindra XUV700"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6514" },
+    "vehicleNumber": "AP02IJ8899",
+    "ownerName": "Lakshmi Devi",
+    "model": "Toyota Fortuner"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6515" },
+    "vehicleNumber": "DL01AB1010",
+    "ownerName": "Amit Sharma",
+    "model": "Honda Civic"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6516" },
+    "vehicleNumber": "DL02CD2020",
+    "ownerName": "Kiran Malhotra",
+    "model": "Hyundai i10"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6517" },
+    "vehicleNumber": "DL03EF3030",
+    "ownerName": "Manish Tiwari",
+    "model": "Maruti Alto"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6518" },
+    "vehicleNumber": "TN10KL4040",
+    "ownerName": "Vignesh S",
+    "model": "Tata Harrier"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6519" },
+    "vehicleNumber": "TN11MN5050",
+    "ownerName": "Harini K",
+    "model": "Kia Carens"
+  },
+  {
+    "_id": { "$oid": "69a20522df42afcb1eae6520" },
+    "vehicleNumber": "KA05OP6060",
+    "ownerName": "Naveen Kumar",
+    "model": "Mahindra Scorpio"
+  }
+]

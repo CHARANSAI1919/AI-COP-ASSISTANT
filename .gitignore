@@ -1,0 +1,41 @@
+# Node
+node_modules/
+dist/
+build/
+.npm
+.eslintcache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Java/Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Misc
+*.log
+temp/
+tmp/

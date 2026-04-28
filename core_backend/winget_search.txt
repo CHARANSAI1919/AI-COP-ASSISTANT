@@ -1,0 +1,8 @@
+Name                             Id                                        Version    Match
+------------------------------------------------------------------------------------------------
+M2 Repo Cleaner                  Japplis.M2RepoCleaner                     1.1        Tag: maven
+chsrc                            RubyMetric.chsrc                          0.2.4      Tag: maven
+Hello Minecraft! Launcher Dev    HMCL.HMCL.Dev.Maven                       3.6.18.297 
+Hello Minecraft! Launcher Dev    HMCL.HMCL.Dev.Maven.TencentCloudMirror    3.6.18.297 
+Hello Minecraft! Launcher Stable HMCL.HMCL.Stable.Maven                    3.6.18     
+Hello Minecraft! Launcher Stable HMCL.HMCL.Stable.Maven.TencentCloudMirror 3.6.18     
